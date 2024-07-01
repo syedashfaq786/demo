@@ -1,4 +1,4 @@
 # demo
 This is my first repository
 <br>
-author - syed ashfaq
+author - syed ashfaq (demo)
